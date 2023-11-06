@@ -1,0 +1,17 @@
+lulcCode,Description,lulcComposition_forest,lulcComposition_shrub,lulcComposition_crop,lulcComposition_lawn,lulcComposition_imp,impBreakdownFrac_roof,impBreakdownFrac_driveway,impBreakdownFrac_pavedRoad,waterFrac,noData
+10,nodata,0,0,1,0,0,0,0,0,0,0
+11,water,0,0,0,1,0,0,0,0,0,0
+12,wetland,0.45,0.55,0,0,0,0,0,0,0,0
+20,canopy,0,0,1,0,0,0,0,0,0,0
+52,shrub,1,0,0,0,0,0,0,0,0,0
+61,low vegetation,1,0,0,0,0,0,0,0,0,0
+62,barren,1,0,0,0,0,0,0,0,0,0
+71,structure,1,0,0,0,0,0,0,0,0,0
+72,imp surf,1,0,0,0,0,0,0,0,0,0
+120,imp road,0,1,0,0,0,0,0,0,0,0
+121,canopy over structure,0,1,0,0,0,0,0,0,0,0
+130,canopy over imp surf,0,0,1,0,0,0,0,0,0,0
+150,canopy over roads,0.1,0.3,0,0.3,0.3,0.1,0.2,0,0,0
+190,canopy over structure,0,0,0,0,1,0.3,0.4,0.3,0,0
+200,canopy over imp surf,0,0,1,0,0,0,0,0,0,0
+210,canopy over roads,0,0,0,0,0,0,0,0,1,0
