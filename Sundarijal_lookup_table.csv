@@ -1,0 +1,31 @@
+lulcCode,Description,lulcComposition_forest,lulcComposition_forest1,lulcComposition_forest2,lulcComposition_shrub,lulcComposition_crop,lulcComposition_lawn,lulcComposition_imp,impBreakdownFrac_roof,impBreakdownFrac_driveway,impBreakdownFrac_pavedRoad,waterFrac,noData
+10,Rainfed Cropland,0,0,0,0,1,0,0,0,0,0,0,0
+11,Herbaceous cover,0,0,0,0,1,0,0,0,0,0,0,0
+12,Tree or shrub cover,0,0,0,1,0,0,0,0,0,0,0,0
+20,Irrigated cropland,0,0,0,0,1,0,0,0,0,0,0,0
+51,Open Evergreen Broadleaved forest,0,1,0,0,0,0,0,0,0,0,0,0
+52,Open Evergreen Broadleaved forest,0,1,0,0,0,0,0,0,0,0,0,0
+61,Open Deciduous broadleaved forest,0,1,0,0,0,0,0,0,0,0,0,0
+62,Closed Deciduous broadleaved forest,0,1,0,0,0,0,0,0,0,0,0,0
+71,Open evergreen needle -leaved forest,0,0,1,0,0,0,0,0,0,0,0,0
+72,Closed evergreen needle-leaved forest,0,0,1,0,0,0,0,0,0,0,0,0
+81,Open deciduous needle-leaved forest,0,0,1,0,0,0,0,0,0,0,0,0
+82,Closed deciduous needle-leaved forest,0,0,1,0,0,0,0,0,0,0,0,0
+91,Open mixed-leaf forest (broadleaved and needle-leaved),1,0,0,0,0,0,0,0,0,0,0,0
+92,Closed mixed-leaf forest (broadleaved and needle-leaved),1,0,0,0,0,0,0,0,0,0,0,0
+120,Shrubland,0,0,0,1,0,0,0,0,0,0,0,0
+121,Evergreen shrubland,0,0,0,1,0,0,0,0,0,0,0,0
+122,Deciduous Shrubland ,0,0,0,1,0,0,0,0,0,0,0,0
+130,Grassland,0,0,0,0,0,1,0,0,0,0,0,0
+140,Lichens and mosses,0,0,0,0,0,1,0,0,0,0,0,0
+150,Sparse vegetation,0,0,0,1,0,0,0,0,0,0,0,0
+152,Sparse shrubland ,0,0,0,1,0,0,0,0,0,0,0,0
+153,Sparse herbaceous ,0,0,0,1,0,0,0,0,0,0,0,0
+180,Wetlands,0,0,0,0,0,1,0,0,0,0,0,0
+190,Impervious surfaces,0,0,0,0,0,0,1,0,0,0,0,0
+200,Bare areas,0,0,0,0,0,0,1,0,0,0,0,0
+201,Consolidated bare areas,0,0,0,0,0,0,1,0,0,0,0,0
+202,Unconsolidated bare areas,0,0,0,0,0,0,1,0,0,0,0,0
+210,Water body ,0,0,0,0,0,0,0,0,0,0,1,0
+220,Permanent ice and snow ,0,0,0,0,0,0,0,0,0,0,1,0
+250,Filled Value ,0,0,0,0,0,0,0,0,0,0,0,1
