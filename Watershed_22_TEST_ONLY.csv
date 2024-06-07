@@ -1,5 +1,5 @@
 lulcCode,lulcComposition_forest,lulcComposition_shrub,lulcComposition_crop,lulcComposition_lawn,lulcComposition_imp,impBreakdownFrac_roof,impBreakdownFrac_driveway,impBreakdownFrac_pavedRoad,waterFrac,noData
-1,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,1
 10,0,0,1,0,0,0,0,0,0,0
 11,0,0,1,0,0,0,0,0,0,0
 12,0,1,0,0,0,0,0,0,0,0
@@ -23,11 +23,11 @@ lulcCode,lulcComposition_forest,lulcComposition_shrub,lulcComposition_crop,lulcC
 181,1,0,0,0,0,0,0,0,0,0
 182,0,0,0,1,0,0,0,0,0,0
 183,0,0,0,1,0,0,0,0,0,0
-190,0,0,0,0,1,1,0,0,0,0
-200,0,0,0,0,1,1,0,0,0,0
+190,1,0,0,0,0,0,0,0,0,0
+200,1,0,0,0,0,0,0,0,0,0
 201,1,0,0,0,0,0,0,0,0,0
 250,1,0,0,0,0,0,0,0,0,0
 202,1,0,0,0,0,0,0,0,0,0
 210,0,0,0,0,0,0,0,0,1,0
 220,1,0,0,0,0,0,0,0,0,0
-250,1,0,0,0,0,0,0,0,0,0
+250,0,0,0,0,0,0,0,0,0,1
